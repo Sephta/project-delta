@@ -18,6 +18,7 @@ public class AudioManager : MonoBehaviour
         if (!gameStart)
         {
             _instance = this;
+            DontDestroyOnLoad(_instance);
             gameStart = true;
         }
     }
@@ -42,8 +43,12 @@ public class AudioManager : MonoBehaviour
         }
     }
 
-    public void PlayerSound(int index)
+    // Play certain sound located at index
+    public void PlaySound(int index)
     {
-        _sources[index].PlayOneShot(_sources[index].clip);
+        if (_sources.Count > 0)
+            _sources[index].PlayOneShot(_sources[index].clip);
+        else
+            Debug.Log("Warning<AudioManager> - " + gameObject.name + ". There are no audio sources initialized in the Audio Manager.");
     }
 }

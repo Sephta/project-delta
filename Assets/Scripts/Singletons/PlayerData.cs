@@ -16,6 +16,7 @@ public class PlayerData : MonoBehaviour
         if (!gameStart)
         {
             _instance = this;
+            DontDestroyOnLoad(_instance);
             gameStart = true;
         }
     }
