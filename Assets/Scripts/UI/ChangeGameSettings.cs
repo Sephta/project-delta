@@ -8,6 +8,7 @@ public class ChangeGameSettings : MonoBehaviour
     [Header("Setting Components")]
     public Slider _musicVolumeSlider = null;
     public Slider _sfxVolumeSlider = null;
+    public InputField _playerNameInput = null;
 
 
     public enum SliderType
@@ -48,5 +49,10 @@ public class ChangeGameSettings : MonoBehaviour
                 GameSettings._instance._sfxVolume = _sfxVolumeSlider.value;
                 break;
         }
+    }
+
+    public void ChangePlayerName()
+    {
+        GameSettings._instance._playerName = _playerNameInput.text;
     }
 }

@@ -8,6 +8,7 @@ public class MoveUI : MonoBehaviour
     public RectTransform objectToTween = null;
     public LeanTweenType easeIn;
     public float timeToTween = 0f;
+    public float delayTime = 0f;
 
     [Header("Positional Data")]
     public PosType desiredPosType = PosType.posX;
@@ -44,23 +45,23 @@ public class MoveUI : MonoBehaviour
             switch(desiredPosType)
             {
                 case PosType.posX:
-                    LeanTween.moveX(objectToTween, desiredPosX, timeToTween).setEase(easeIn);
+                    LeanTween.moveX(objectToTween, desiredPosX, timeToTween).setEase(easeIn).setDelay(delayTime);
                     break;
 
                 case PosType.posY:
                     if (destroyAfterCompletion == UITweenSetting.yes)
-                        LeanTween.moveY(objectToTween, desiredPosY, timeToTween).setEase(easeIn).setOnComplete(DestroySelf);
+                        LeanTween.moveY(objectToTween, desiredPosY, timeToTween).setEase(easeIn).setDelay(delayTime).setOnComplete(DestroySelf);
                     else
-                        LeanTween.moveY(objectToTween, desiredPosY, timeToTween).setEase(easeIn);
+                        LeanTween.moveY(objectToTween, desiredPosY, timeToTween).setEase(easeIn).setDelay(delayTime);
                     break;
 
                 case PosType.both:
-                    LeanTween.move(objectToTween, new Vector3(desiredPosX, desiredPosY, 0f), timeToTween);
+                    LeanTween.move(objectToTween, new Vector3(desiredPosX, desiredPosY, 0f), timeToTween).setDelay(delayTime);
                     break;
             }
 
             if (fadeOut == UITweenSetting.yes)
-                LeanTween.alpha(this.gameObject, 0, timeToTween);
+                LeanTween.alpha(this.gameObject, 0, timeToTween).setDelay(delayTime);
         }
     }
 

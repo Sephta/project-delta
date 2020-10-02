@@ -5,6 +5,7 @@ using UnityEngine;
 public class GameSettings : MonoBehaviour
 {
     [Header("Game Settings")]
+    public string _playerName = "";
     [Range(0, 1)] public float _musicVolume = 0f;
     [Range(0, 1)] public float _sfxVolume = 0f;
 

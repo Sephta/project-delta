@@ -18,4 +18,4 @@ MonoBehaviour:
   _creatureImage: {fileID: 1913543167974458854, guid: 1d5624dcbd71411418aefe428911b1b4, type: 3}
   _creatureEXP: 10
   _creatureColliderSize: {x: 0.5, y: 0.5}
-  _creatureStats: 6f0000006f0000006f0000006f0000006f0000006f000000
+  _creatureStats: 20000000100000000a0000000b0000000800000016000000

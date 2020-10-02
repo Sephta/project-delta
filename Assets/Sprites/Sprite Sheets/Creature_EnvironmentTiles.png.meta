@@ -1,91 +1,196 @@
 fileFormatVersion: 2
-guid: 1d5624dcbd71411418aefe428911b1b4
+guid: 51db74a4f7627634f9f986637db58168
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1913543167974458854
-    second: Creature_Spritesheet_0
+      213: 6547065906924351149
+    second: Creature_EnvironmentTiles_0
   - first:
-      213: -1111131430764313926
-    second: Creature_Spritesheet_1
+      213: 4644564278224610101
+    second: Creature_EnvironmentTiles_1
   - first:
-      213: 4211690320054265106
-    second: Creature_Spritesheet_2
+      213: -1523030240009062869
+    second: Creature_EnvironmentTiles_2
   - first:
-      213: 5806433246110305416
-    second: Creature_Spritesheet_3
+      213: 431239910756597711
+    second: Creature_EnvironmentTiles_3
   - first:
-      213: -1091741334894721673
-    second: Creature_Spritesheet_4
+      213: 5820438082773394917
+    second: Creature_EnvironmentTiles_4
   - first:
-      213: 6889962116739639628
-    second: Creature_Spritesheet_5
+      213: 2739313403127315318
+    second: Creature_EnvironmentTiles_5
   - first:
-      213: -8959744555727877987
-    second: Creature_Spritesheet_6
+      213: -2976680235520372943
+    second: Creature_EnvironmentTiles_6
   - first:
-      213: -8464040554697439902
-    second: Creature_Spritesheet_7
+      213: -2929320837784308955
+    second: Creature_EnvironmentTiles_7
   - first:
-      213: -5106214369077804176
-    second: Creature_Spritesheet_8
+      213: 9066286296587158986
+    second: Creature_EnvironmentTiles_8
   - first:
-      213: 2664551528078905441
-    second: Creature_Spritesheet_9
+      213: -7357440827080488511
+    second: Creature_EnvironmentTiles_9
   - first:
-      213: -4959017717158820329
-    second: Creature_Spritesheet_10
+      213: -2073910118080020757
+    second: Creature_EnvironmentTiles_10
   - first:
-      213: -3987737622296476140
-    second: Creature_Spritesheet_11
+      213: -864894000637088290
+    second: Creature_EnvironmentTiles_11
   - first:
-      213: 8991599638410137312
-    second: Creature_Spritesheet_12
+      213: -953698759460153727
+    second: Creature_EnvironmentTiles_12
   - first:
-      213: -2142849715996723630
-    second: Creature_Spritesheet_13
+      213: -3622363367683839879
+    second: Creature_EnvironmentTiles_13
   - first:
-      213: 4822311544936768334
-    second: Creature_Spritesheet_14
+      213: -1893958859108915263
+    second: Creature_EnvironmentTiles_14
   - first:
-      213: 892531889253343157
-    second: Creature_Spritesheet_15
+      213: 6202323513431914475
+    second: Creature_EnvironmentTiles_15
   - first:
-      213: -652795740723301806
-    second: Creature_Spritesheet_16
+      213: 6618472725706488465
+    second: Creature_EnvironmentTiles_16
   - first:
-      213: -2440386324268061445
-    second: Creature_Spritesheet_17
+      213: 1360835844624398687
+    second: Creature_EnvironmentTiles_17
   - first:
-      213: -5727156241454194638
-    second: Creature_Spritesheet_18
+      213: 824267983692912679
+    second: Creature_EnvironmentTiles_18
   - first:
-      213: -8863173663883257895
-    second: Creature_Spritesheet_19
+      213: 3583444698497311192
+    second: Creature_EnvironmentTiles_19
   - first:
-      213: 4603875564663471637
-    second: Creature_Spritesheet_20
+      213: -115933407714873348
+    second: Creature_EnvironmentTiles_20
   - first:
-      213: 7856583698965789001
-    second: Creature_Spritesheet_21
+      213: 8476585509133113762
+    second: Creature_EnvironmentTiles_21
   - first:
-      213: 2018177501520694359
-    second: Creature_Spritesheet_22
+      213: -7090069338320953345
+    second: Creature_EnvironmentTiles_22
   - first:
-      213: 1173112000720570263
-    second: Creature_Spritesheet_23
+      213: 3984685149148870533
+    second: Creature_EnvironmentTiles_23
   - first:
-      213: 7991961924463186266
-    second: Creature_Spritesheet_24
+      213: 1901510682667334833
+    second: Creature_EnvironmentTiles_24
   - first:
-      213: -8221074831106587992
-    second: Creature_Spritesheet_25
+      213: 2602336774906868442
+    second: Creature_EnvironmentTiles_25
   - first:
-      213: 5564405780835860219
-    second: Creature_Spritesheet_26
+      213: 4149189000020578557
+    second: Creature_EnvironmentTiles_26
   - first:
-      213: -7132406345650622892
-    second: Creature_Spritesheet_27
+      213: 3565833478040223987
+    second: Creature_EnvironmentTiles_27
+  - first:
+      213: -8896313938259947627
+    second: Creature_EnvironmentTiles_28
+  - first:
+      213: 845388953473724091
+    second: Creature_EnvironmentTiles_29
+  - first:
+      213: 5661677682944015151
+    second: Creature_EnvironmentTiles_30
+  - first:
+      213: 2984864530564948259
+    second: Creature_EnvironmentTiles_31
+  - first:
+      213: -472986391786290920
+    second: Creature_EnvironmentTiles_32
+  - first:
+      213: -2422842861507127023
+    second: Creature_EnvironmentTiles_33
+  - first:
+      213: -8886883343129244621
+    second: Creature_EnvironmentTiles_34
+  - first:
+      213: 7914050402498337206
+    second: Creature_EnvironmentTiles_35
+  - first:
+      213: -2603258508024118099
+    second: Creature_EnvironmentTiles_36
+  - first:
+      213: 582865763503957633
+    second: Creature_EnvironmentTiles_37
+  - first:
+      213: -5647118612365243655
+    second: Creature_EnvironmentTiles_38
+  - first:
+      213: -519131732672926527
+    second: Creature_EnvironmentTiles_39
+  - first:
+      213: -4715305902029920661
+    second: Creature_EnvironmentTiles_40
+  - first:
+      213: 6580654897442551972
+    second: Creature_EnvironmentTiles_41
+  - first:
+      213: 7855031767981467371
+    second: Creature_EnvironmentTiles_42
+  - first:
+      213: 622201274625953364
+    second: Creature_EnvironmentTiles_43
+  - first:
+      213: 1106156162832596349
+    second: Creature_EnvironmentTiles_44
+  - first:
+      213: 655355090077979288
+    second: Creature_EnvironmentTiles_45
+  - first:
+      213: -1514345557795076365
+    second: Creature_EnvironmentTiles_46
+  - first:
+      213: 7256694477205196380
+    second: Creature_EnvironmentTiles_47
+  - first:
+      213: -3808704734054991693
+    second: Creature_EnvironmentTiles_48
+  - first:
+      213: -2774745859276592173
+    second: Creature_EnvironmentTiles_49
+  - first:
+      213: -2974852449628417099
+    second: Creature_EnvironmentTiles_50
+  - first:
+      213: 7624253877028210187
+    second: Creature_EnvironmentTiles_51
+  - first:
+      213: -2009875731581612085
+    second: Creature_EnvironmentTiles_52
+  - first:
+      213: 7531402049009656089
+    second: Creature_EnvironmentTiles_53
+  - first:
+      213: 5767231168563938049
+    second: Creature_EnvironmentTiles_54
+  - first:
+      213: -518419892102096239
+    second: Creature_EnvironmentTiles_55
+  - first:
+      213: 4108728829681471420
+    second: Creature_EnvironmentTiles_56
+  - first:
+      213: -2010849926622347585
+    second: Creature_EnvironmentTiles_57
+  - first:
+      213: 7098915694540553885
+    second: Creature_EnvironmentTiles_58
+  - first:
+      213: -8968774012682865620
+    second: Creature_EnvironmentTiles_59
+  - first:
+      213: 6786107642547028720
+    second: Creature_EnvironmentTiles_60
+  - first:
+      213: 697827577939193665
+    second: Creature_EnvironmentTiles_61
+  - first:
+      213: 3100565946354801108
+    second: Creature_EnvironmentTiles_62
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -190,277 +295,146 @@ TextureImporter:
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
-    overridden: 1
+    overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Creature_Spritesheet_0
+      name: Creature_EnvironmentTiles_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 112
+        y: 96
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -4, y: -2}
-        - {x: -4, y: 3}
-        - {x: -3, y: 4}
-        - {x: 3, y: 4}
-        - {x: 4, y: 3}
-        - {x: 4, y: -2}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e54e757f554e8a10800000000000000
-      internalID: 1913543167974458854
+      spriteID: daeeb4721c9dbda50800000000000000
+      internalID: 6547065906924351149
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_1
+      name: Creature_EnvironmentTiles_1
       rect:
         serializedVersion: 2
         x: 16
-        y: 112
+        y: 96
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -4, y: -4}
-        - {x: -4, y: 5}
-        - {x: 3, y: 5}
-        - {x: 3, y: -4}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab2858ac9d77490f0800000000000000
-      internalID: -1111131430764313926
+      spriteID: 533eb046a9ec47040800000000000000
+      internalID: 4644564278224610101
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_2
+      name: Creature_EnvironmentTiles_2
       rect:
         serializedVersion: 2
         x: 32
-        y: 112
+        y: 96
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 3, y: -3}
-        - {x: -3, y: -3}
-        - {x: -4, y: -2}
-        - {x: -4, y: 1}
-        - {x: -3, y: 2}
-        - {x: -2, y: 3}
-        - {x: 0, y: 4}
-        - {x: 1, y: 4}
-        - {x: 2, y: 3}
-        - {x: 3, y: 2}
-        - {x: 4, y: 1}
-        - {x: 4, y: -2}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 21529c6180ee27a30800000000000000
-      internalID: 4211690320054265106
+      spriteID: b26f41ae01c1ddae0800000000000000
+      internalID: -1523030240009062869
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_3
+      name: Creature_EnvironmentTiles_3
       rect:
         serializedVersion: 2
         x: 48
-        y: 112
+        y: 96
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 2, y: -3}
-        - {x: -3, y: -3}
-        - {x: -4, y: -2}
-        - {x: -4, y: 2}
-        - {x: -3, y: 4}
-        - {x: 2, y: 4}
-        - {x: 3, y: 2}
-        - {x: 3, y: -2}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 88c4c660648949050800000000000000
-      internalID: 5806433246110305416
+      spriteID: fcf3e9df9621cf500800000000000000
+      internalID: 431239910756597711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_4
+      name: Creature_EnvironmentTiles_4
       rect:
         serializedVersion: 2
         x: 64
-        y: 112
+        y: 96
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: -2, y: -3}
-        - {x: -3, y: -2}
-        - {x: -4, y: -1}
-        - {x: -4, y: 3}
-        - {x: -5, y: 5}
-        - {x: 0, y: 6}
-        - {x: 1, y: 6}
-        - {x: 3, y: 4}
-        - {x: 4, y: 2}
-        - {x: 5, y: 1}
-        - {x: 5, y: -1}
-        - {x: 4, y: -2}
-        - {x: 3, y: -3}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7754dfa4a0b59d0f0800000000000000
-      internalID: -1091741334894721673
+      spriteID: 5e52dd8299956c050800000000000000
+      internalID: 5820438082773394917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_5
+      name: Creature_EnvironmentTiles_10
       rect:
         serializedVersion: 2
-        x: 80
-        y: 112
+        x: 0
+        y: 80
         width: 16
         height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 3, y: -3}
-        - {x: -2, y: -3}
-        - {x: -3, y: -2}
-        - {x: -4, y: -1}
-        - {x: -4, y: 2}
-        - {x: -3, y: 3}
-        - {x: -1, y: 4}
-        - {x: 1, y: 5}
-        - {x: 3, y: 4}
-        - {x: 4, y: 3}
-        - {x: 5, y: 1}
-        - {x: 5, y: -1}
-        - {x: 4, y: -2}
+      physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c492a246a001e9f50800000000000000
-      internalID: 6889962116739639628
+      spriteID: bee70c35cbdf733e0800000000000000
+      internalID: -2073910118080020757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -4, y: -4}
-        - {x: -4, y: 3}
-        - {x: -3, y: 4}
-        - {x: -2, y: 5}
-        - {x: 2, y: 5}
-        - {x: 3, y: 4}
-        - {x: 4, y: 3}
-        - {x: 4, y: -4}
-      tessellationDetail: 0
-      bones: []
-      spriteID: d98899d1cc798a380800000000000000
-      internalID: -8959744555727877987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_7
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -5, y: -5}
-        - {x: -5, y: 5}
-        - {x: 6, y: 5}
-        - {x: 6, y: -5}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26542ccb5ffa98a80800000000000000
-      internalID: -8464040554697439902
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_8
+      name: Creature_EnvironmentTiles_11
       rect:
         serializedVersion: 2
         x: 16
-        y: 94
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0734f10d5151329b0800000000000000
-      internalID: -5106214369077804176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_10
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 93
+        y: 80
         width: 16
-        height: 19
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -468,83 +442,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71641e509a70e2bb0800000000000000
-      internalID: -4959017717158820329
+      spriteID: edde8a32d774ff3f0800000000000000
+      internalID: -864894000637088290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_11
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 94
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 416ce8da2c5b8a8c0800000000000000
-      internalID: -3987737622296476140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_12
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 94
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0ee87f94b3498cc70800000000000000
-      internalID: 8991599638410137312
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_14
+      name: Creature_EnvironmentTiles_12
       rect:
         serializedVersion: 2
         x: 32
-        y: 78
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e43a838ecca4ce240800000000000000
-      internalID: 4822311544936768334
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_16
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 78
+        y: 80
         width: 16
-        height: 18
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,62 +463,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 252bc438bbdc0f6f0800000000000000
-      internalID: -652795740723301806
+      spriteID: 18695abf708c3c2f0800000000000000
+      internalID: -953698759460153727
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_18
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 78
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23026fefdbd0580b0800000000000000
-      internalID: -5727156241454194638
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_21
+      name: Creature_EnvironmentTiles_13
       rect:
         serializedVersion: 2
         x: 48
-        y: 62
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 949fafc8f31380d60800000000000000
-      internalID: 7856583698965789001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_23
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 62
+        y: 80
         width: 16
-        height: 18
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,17 +484,143 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79782b4362bb74010800000000000000
-      internalID: 1173112000720570263
+      spriteID: 97821dd85b7cabdc0800000000000000
+      internalID: -3622363367683839879
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Creature_Spritesheet_26
+      name: Creature_EnvironmentTiles_14
       rect:
         serializedVersion: 2
         x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7eb97c37e47b5e0800000000000000
+      internalID: -1893958859108915263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EnvironmentTiles_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffed8f0e2f146ef0800000000000000
+      internalID: -115933407714873348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EnvironmentTiles_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a95a141c91e2a570800000000000000
+      internalID: 8476585509133113762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EnvironmentTiles_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff9d7860830b9d90800000000000000
+      internalID: -7090069338320953345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EnvironmentTiles_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587fac808027c4730800000000000000
+      internalID: 3984685149148870533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EnvironmentTiles_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc3ff824e5836a10800000000000000
+      internalID: 1901510682667334833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Creature_EnvironmentTiles_32
+      rect:
+        serializedVersion: 2
+        x: 32
         y: 48
         width: 16
         height: 16
@@ -633,44 +628,11 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape:
-      - - {x: 3, y: -6}
-        - {x: -3, y: -6}
-        - {x: -4, y: -5}
-        - {x: -5, y: -4}
-        - {x: -5, y: 0}
-        - {x: -3, y: 3}
-        - {x: -1, y: 5}
-        - {x: 1, y: 5}
-        - {x: 3, y: 3}
-        - {x: 5, y: 0}
-        - {x: 5, y: -4}
-        - {x: 4, y: -5}
-      tessellationDetail: 0
-      bones: []
-      spriteID: bfef9d0839db83d40800000000000000
-      internalID: 5564405780835860219
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Creature_Spritesheet_9
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 104
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1601ed45f736af420800000000000000
-      internalID: 2664551528078905441
+      spriteID: 8110cf5f16d9f69f0800000000000000
+      internalID: -472986391786290920
       vertices: []
       indices: 
       edges: []

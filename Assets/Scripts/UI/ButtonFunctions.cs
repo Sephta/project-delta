@@ -15,4 +15,9 @@ public class ButtonFunctions : MonoBehaviour
         Debug.Log("Application Quiting...");
         Application.Quit();
     }
+
+    public void ReturnToMainMenu()
+    {
+        SceneManager.LoadScene("StartScreen");
+    }
 }

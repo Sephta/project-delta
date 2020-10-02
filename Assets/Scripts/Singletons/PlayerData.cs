@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerData : MonoBehaviour
 {
     [Header("Player Global Data")]
-    public int _testInt = 0;
+    public int _playerEXP = 0;
 
     [Header("Instance Data")]
     public static PlayerData _instance;
