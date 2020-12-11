@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: 311f232b7b14d70488356808b34fb63b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1047261448584358275
+    second: p_Delta_UI_Sprites_0
+  - first:
+      213: 7639086640765818114
+    second: p_Delta_UI_Sprites_1
+  - first:
+      213: -3546238311376607789
+    second: p_Delta_UI_Sprites_2
+  - first:
+      213: 7732731863808063545
+    second: p_Delta_UI_Sprites_3
+  - first:
+      213: -8426403854578726789
+    second: p_Delta_UI_Sprites_4
+  - first:
+      213: 9193870917878163988
+    second: p_Delta_UI_Sprites_5
+  - first:
+      213: 2250545393239799391
+    second: p_Delta_UI_Sprites_6
+  - first:
+      213: 8998428367135807790
+    second: p_Delta_UI_Sprites_7
+  - first:
+      213: 6862664383776181445
+    second: p_Delta_UI_Sprites_8
+  - first:
+      213: 1456239413288309021
+    second: p_Delta_UI_Sprites_9
+  - first:
+      213: 219148955106965198
+    second: p_Delta_UI_Sprites_10
+  - first:
+      213: -446383312423048295
+    second: p_Delta_UI_Sprites_11
+  - first:
+      213: 7163268715288083165
+    second: p_Delta_UI_Sprites_12
+  - first:
+      213: 312077113729823724
+    second: p_Delta_UI_Sprites_13
+  - first:
+      213: -7824581911141765190
+    second: p_Delta_UI_Sprites_14
+  - first:
+      213: -7070642280794511544
+    second: p_Delta_UI_Sprites_15
+  - first:
+      213: 779532671555063570
+    second: p_Delta_UI_Sprites_16
+  - first:
+      213: 871488553001666938
+    second: p_Delta_UI_Sprites_17
+  - first:
+      213: 5363287806887406529
+    second: p_Delta_UI_Sprites_18
+  - first:
+      213: 6716304577251304416
+    second: p_Delta_UI_Sprites_19
+  - first:
+      213: -3027807108511991434
+    second: p_Delta_UI_Sprites_20
+  - first:
+      213: 77241554048014263
+    second: p_Delta_UI_Sprites_21
+  - first:
+      213: 8017385825306609864
+    second: p_Delta_UI_Sprites_22
+  - first:
+      213: -1908802173374361490
+    second: p_Delta_UI_Sprites_23
+  - first:
+      213: -376340518969850191
+    second: p_Delta_UI_Sprites_24
+  - first:
+      213: 7538607064264704479
+    second: p_Delta_UI_Sprites_25
+  - first:
+      213: 8248289934092902515
+    second: p_Delta_UI_Sprites_26
+  - first:
+      213: 8296451939368888983
+    second: p_Delta_UI_Sprites_27
+  - first:
+      213: 3352675089585439066
+    second: p_Delta_UI_Sprites_28
+  - first:
+      213: -7041711973362115917
+    second: p_Delta_UI_Sprites_29
+  - first:
+      213: 602536253999145414
+    second: p_Delta_UI_Sprites_30
+  - first:
+      213: 3948297212492928649
+    second: p_Delta_UI_Sprites_31
+  - first:
+      213: -7560059996234644252
+    second: p_Delta_UI_Sprites_32
+  - first:
+      213: 5541731703387674720
+    second: p_Delta_UI_Sprites_33
+  - first:
+      213: -493158076969056572
+    second: p_Delta_UI_Sprites_34
+  - first:
+      213: -966244468123996051
+    second: p_Delta_UI_Sprites_35
+  - first:
+      213: 2111164047292038127
+    second: p_Delta_UI_Sprites_36
+  - first:
+      213: -3424550712984337871
+    second: p_Delta_UI_Sprites_37
+  - first:
+      213: -4210180295182663213
+    second: p_Delta_UI_Sprites_38
+  - first:
+      213: -3406225263953908583
+    second: p_Delta_UI_Sprites_39
+  - first:
+      213: -7352423062026125816
+    second: p_Delta_UI_Sprites_40
+  - first:
+      213: 2327664409276283845
+    second: p_Delta_UI_Sprites_41
+  - first:
+      213: -2070581843166038193
+    second: p_Delta_UI_Sprites_42
+  - first:
+      213: 6693303067209330555
+    second: p_Delta_UI_Sprites_43
+  - first:
+      213: -6579851611639544422
+    second: p_Delta_UI_Sprites_44
+  - first:
+      213: -8665425843165684480
+    second: p_Delta_UI_Sprites_45
+  - first:
+      213: -3425167323881133391
+    second: p_Delta_UI_Sprites_46
+  - first:
+      213: 7385051875240851611
+    second: p_Delta_UI_Sprites_47
+  - first:
+      213: -5032582276239149547
+    second: p_Delta_UI_Sprites_48
+  - first:
+      213: -8827705730091651791
+    second: p_Delta_UI_Sprites_49
+  - first:
+      213: 3569470740602652359
+    second: p_Delta_UI_Sprites_50
+  - first:
+      213: -6188032162445182964
+    second: p_Delta_UI_Sprites_51
+  - first:
+      213: 5743993047769560083
+    second: p_Delta_UI_Sprites_52
+  - first:
+      213: 7852463533238093864
+    second: p_Delta_UI_Sprites_53
+  - first:
+      213: 457266309451670649
+    second: p_Delta_UI_Sprites_54
+  - first:
+      213: -4413608775211694257
+    second: p_Delta_UI_Sprites_55
+  - first:
+      213: 7591509857477814056
+    second: p_Delta_UI_Sprites_56
+  - first:
+      213: 6265877561296971971
+    second: p_Delta_UI_Sprites_57
+  - first:
+      213: -6915134678780944531
+    second: p_Delta_UI_Sprites_58
+  - first:
+      213: 2876698826196565706
+    second: p_Delta_UI_Sprites_59
+  - first:
+      213: 7272784674093100150
+    second: p_Delta_UI_Sprites_60
+  - first:
+      213: 3214066947432891295
+    second: p_Delta_UI_Sprites_61
+  - first:
+      213: -2950620307849077242
+    second: p_Delta_UI_Sprites_62
+  - first:
+      213: 3761101283203065398
+    second: p_Delta_UI_Sprites_63
+  - first:
+      213: -8478056115851612534
+    second: p_Delta_UI_Sprites_64
+  - first:
+      213: -6452910904374429141
+    second: p_Delta_UI_Sprites_65
+  - first:
+      213: -2678900077855912625
+    second: p_Delta_UI_Sprites_66
+  - first:
+      213: 982174545802772715
+    second: p_Delta_UI_Sprites_67
+  - first:
+      213: 1791117852971384735
+    second: p_Delta_UI_Sprites_68
+  - first:
+      213: -5289722303603491821
+    second: p_Delta_UI_Sprites_69
+  - first:
+      213: 891328484098367904
+    second: p_Delta_UI_Sprites_70
+  - first:
+      213: 97092858778722155
+    second: p_Delta_UI_Sprites_71
+  - first:
+      213: -9178269742945115914
+    second: p_Delta_UI_Sprites_72
+  - first:
+      213: 7977590274320153303
+    second: p_Delta_UI_Sprites_73
+  - first:
+      213: -5248791831259214847
+    second: p_Delta_UI_Sprites_74
+  - first:
+      213: -6315180433716590817
+    second: p_Delta_UI_Sprites_75
+  - first:
+      213: -8687030219053447923
+    second: p_Delta_UI_Sprites_76
+  - first:
+      213: 3317330215516735922
+    second: p_Delta_UI_Sprites_77
+  - first:
+      213: -5309291553897318355
+    second: p_Delta_UI_Sprites_78
+  - first:
+      213: -2096311609104887593
+    second: p_Delta_UI_Sprites_79
+  - first:
+      213: -3458101685025477763
+    second: p_Delta_UI_Sprites_80
+  - first:
+      213: 5703591406214571808
+    second: p_Delta_UI_Sprites_81
+  - first:
+      213: -4751769089832370337
+    second: p_Delta_UI_Sprites_82
+  - first:
+      213: 4082410158647638321
+    second: p_Delta_UI_Sprites_83
+  - first:
+      213: 408406559189947294
+    second: p_Delta_UI_Sprites_84
+  - first:
+      213: -2701029093359863528
+    second: p_Delta_UI_Sprites_85
+  - first:
+      213: 7675107722308943278
+    second: p_Delta_UI_Sprites_86
+  - first:
+      213: -244453963465367787
+    second: p_Delta_UI_Sprites_87
+  - first:
+      213: -3260181200488060096
+    second: p_Delta_UI_Sprites_88
+  - first:
+      213: -7383692483416990915
+    second: p_Delta_UI_Sprites_89
+  - first:
+      213: -5554575023226770048
+    second: p_Delta_UI_Sprites_90
+  - first:
+      213: 6951677068153083519
+    second: p_Delta_UI_Sprites_91
+  - first:
+      213: 9180163098559419409
+    second: p_Delta_UI_Sprites_92
+  - first:
+      213: -1254692706098999288
+    second: p_Delta_UI_Sprites_93
+  - first:
+      213: 3189265646242332454
+    second: p_Delta_UI_Sprites_94
+  - first:
+      213: 1028444928934952958
+    second: p_Delta_UI_Sprites_95
+  - first:
+      213: 8605995936165469158
+    second: p_Delta_UI_Sprites_96
+  - first:
+      213: 9120156837240141294
+    second: p_Delta_UI_Sprites_97
+  - first:
+      213: 554025172843973944
+    second: p_Delta_UI_Sprites_98
+  - first:
+      213: 3496812144096170790
+    second: p_Delta_UI_Sprites_99
+  - first:
+      213: 850792604208049942
+    second: p_Delta_UI_Sprites_100
+  - first:
+      213: 6822024665057185637
+    second: p_Delta_UI_Sprites_101
+  - first:
+      213: -8101154860705796908
+    second: p_Delta_UI_Sprites_102
+  - first:
+      213: 3705693160721573229
+    second: p_Delta_UI_Sprites_103
+  - first:
+      213: 4238676073790661501
+    second: p_Delta_UI_Sprites_104
+  - first:
+      213: 2337189479630399446
+    second: p_Delta_UI_Sprites_105
+  - first:
+      213: 3446411315435734254
+    second: p_Delta_UI_Sprites_106
+  - first:
+      213: 8702403122861780035
+    second: p_Delta_UI_Sprites_107
+  - first:
+      213: 7709332249485005582
+    second: p_Delta_UI_Sprites_108
+  - first:
+      213: 7291129146333178083
+    second: p_Delta_UI_Sprites_109
+  - first:
+      213: -7636435124452562054
+    second: p_Delta_UI_Sprites_110
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d761b2ad2416771f0800000000000000
+      internalID: -1047261448584358275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec67c0640d29a0300800000000000000
+      internalID: 219148955106965198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 160
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb7b3f92768d4020800000000000000
+      internalID: 2327664409276283845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95817d12dbafa4a0800000000000000
+      internalID: -6579851611639544422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 160
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9830978d89fc7660800000000000000
+      internalID: 7385051875240851611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de430e860bd7580800000000000000
+      internalID: -8827705730091651791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ee962949885600800000000000000
+      internalID: 457266309451670649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 128
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1eed8a882ae5c00800000000000000
+      internalID: 891328484098367904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 128
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c82d583ab8827b0800000000000000
+      internalID: -5248791831259214847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: p_Delta_UI_Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 12, z: 7, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d054c38aa08717780800000000000000
+      internalID: -8687030219053447923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
